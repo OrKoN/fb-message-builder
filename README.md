@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/l/fb-message-builder.svg?maxAge=2592000?style=plastic)](https://github.com/OrKoN/fb-message-builder/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/OrKoN/fb-message-builder.svg?branch=master)](https://travis-ci.org/OrKoN/fb-message-builder)
 
-Fork of [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) which offers the builder for Facebook messages only. No new features compared to claudia-bot-builder.
+Fork of [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) which offers the builder for Facebook messages only. No new features compared to claudia-bot-builder. All credits to the [Claudia Bot Builder team](https://github.com/claudiajs/claudia-bot-builder)
 
 In this guide:
 

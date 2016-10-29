@@ -1,0 +1,35 @@
+{
+  "name": "fb-message-builder",
+  "version": "2.2.0",
+  "description": "Build messages for Facebook Messenger API using fb-message-builder",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint lib spec *.js",
+    "test": "node spec/support/jasmine-runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orkon/fb-message-builder"
+  },
+  "keywords": [
+    "claudia",
+    "bot",
+    "chatbot",
+    "messenger",
+    "builder"
+  ],
+  "author": "Slobodan Stojanovic <slobodan@cloudhorizon.com> (http://slobodan.me/), ",
+  "contributors": [
+    "Alexander Simovic (https://github.com/simalexan)",
+    "Gojko Adzic <gojko@gojko.com> (https://gojko.net)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^2.11.1",
+    "eslint-config-defaults": "^9.0.0",
+    "jasmine": "^2.5.2",
+    "jasmine-spec-reporter": "^2.7.0"
+  }
+}
